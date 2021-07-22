@@ -1,0 +1,80 @@
+h1{color:rgb(255, 255, 255)}
+h3{color: ivory;}
+
+.header{
+    background-image: url(https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d29vZGVuJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    width: 1330px;
+    height: 320px;
+    text-align: center;
+    font-style: italic;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.camel{
+    background-color: rgb(236, 236, 236);
+    
+    border-radius: 20px;
+    width: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.chameleon{
+    background-color: rgb(236, 236, 236);
+    
+    border-radius: 20px;
+    width: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.pigeon{
+    background-color: rgb(236, 236, 236);
+    
+    border-radius: 20px;
+    width: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.taddy{
+    background-color: rgb(236, 236, 236);
+    
+    border-radius: 20px;
+    width: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.panda{
+    background-color: rgb(236, 236, 236);
+    
+    border-radius: 20px;
+    width: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.cicada{
+    background-color: rgb(236, 236, 236);
+    
+    border-radius: 20px;
+    width: 310px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.footer{
+    background-color: lightgoldenrodyellow;
+
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+}
